@@ -1,5 +1,5 @@
 {
-  "name": "TeleDrive",
+  "name": "Mohit TeleDrive",
   "description": "Free cloud storage via telegram",
   "keywords": [
     "cloud",
@@ -10,7 +10,7 @@
     "unlimited"
   ],
   "website": "https://teledriveapp.com",
-  "repository": "https://github.com/mgilangjanuar/teledrive",
+  "repository": "https://github.com/okaybro526-1/teledrive",
 
   "addons": [
     "heroku-postgresql"
